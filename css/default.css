@@ -1,0 +1,264 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Helvetica';
+    font-size: 9pt;
+}
+
+root { 
+    display: block;
+}
+
+.alignHelper {
+    display: inline-block;
+    height: 100%;
+}
+
+.alignHelperTop {
+    display: inline-block;
+    height: 100%;
+    vertical-align: top;
+}
+
+.alignHelperMiddle {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.alignHelperBottom {
+    display: inline-block;
+    height: 100%;
+    vertical-align: bottom;
+}
+
+
+table {
+    margin: 0;    
+    padding: 0;
+    border-collapse: collapse;
+}
+
+tr {
+    margin: 0;
+    padding: 0;
+}
+
+td {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin: 0px;
+}
+
+a {
+    border-style: none;
+    text-decoration: none;
+}
+
+img {
+    border-style: none;
+}
+
+p {
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.withHoverPointer:hover {
+    cursor: pointer;
+}
+
+.dropLight {
+    color: black;
+    text-shadow: 4px 2px 4px #FFFFFF;
+    /*[if IE]>filter:progid:DXImageTransform.Microsoft.DropShadow(color='#FFFFFF', OffX='1', OffY='1');![endif]*/
+}
+
+.dropLightSmall {
+    color: black;
+    text-shadow: 2px 1px 2px #FFFFFF;
+    /*[if IE]>filter:progid:DXImageTransform.Microsoft.DropShadow(color='#FFFFFF', OffX='1', OffY='1');![endif]*/
+}
+
+.dropShadowSmall {
+    color: white;
+    text-shadow: 1px 1px 2px #000000;
+    /*[if IE]>filter:progid:DXImageTransform.Microsoft.DropShadow(color='#000000', OffX='1', OffY='1');![endif]*/
+}
+
+.dropShadow {
+    color: #d3bcb2;
+    text-shadow: 3px 1px 3px #000000;
+    /*[if IE]>filter:progid:DXImageTransform.Microsoft.DropShadow(color='#000000', OffX='1', OffY='1');![endif]*/
+}
+
+
+div.table   { display: table; }
+div.row     { display: table-row; }
+div.cell    { display: table-cell; }
+
+p.indent { margin-left:20px;}
+
+.left       { text-align: left; }
+.right      { text-align: right; }
+.center     { text-align: center; }
+
+
+/* Requires that DIV width be set separately */
+div.centerPosition {
+    position: static;
+    margin-left:auto;
+    margin-right:auto;
+}
+.justify    { text-align: justify }
+
+.quarter        { width: 25% }
+.threeQuarters  { width: 75% }
+.half           { width: 50% }
+.third          { width: 33% }
+.twoThirds      { width: 66% }
+.full           { width: 100% }
+
+.fullHeight             { height: 100% }
+.threeQuartersHeight    { height: 75% }
+.halfHeight             { height: 50% }
+.quarterHeight          { height: 25% }
+
+.normal { font-weight: normal }
+.bold   { font-weight: 900 }
+.italic { font-style: italic }
+
+.small      { font-size: 0.8em; }
+.normalSize { font-size: 1.0em; }
+.medium     { font-size: 1.2em; font-family: 'Century Gothic'; font-weight: bold; }
+.large      { font-size: 1.5em; font-family: 'Century Gothic'; font-weight: bold; }
+.huge       { font-size: 1.8em; font-family: 'Century Gothic'; font-weight: bold; }
+
+.red    { color: brown }
+.white  { color: white }
+.gray   { color: dimgray }
+
+.opaque         {opacity:0.4; }
+.hidden { display: none;}
+.hiddenButTakesSpace { visibility: hidden; }
+.visible{ display: block;}
+.border { border: 1px solid black }
+
+.margin { margin-left: 5px; margin-right: 5px; margin-top:3px;  margin-bottom: 6px; }
+.marginLeftRight { margin-left: 5px; margin-right: 5px;}
+.marginTop { margin-top: 5px; }
+.marginBottom { margin-bottom: 5px; }
+
+.block    { display: block}
+.inline  { display: inline-block}
+
+.middle { vertical-align: middle; }
+.top { vertical-align: top; }
+.bottom { vertical-align: bottom; }
+
+
+
+
+/* Page specific stuff */
+body { background-color: #DDDDDD; background-image: url('../images/debut_dark.png') }
+a:visited {
+    color: black;
+}
+
+
+#outerContainer {
+    width: 900px; 
+    background-color: white; 
+    background-image: url('../images/paper_fibers.png'); 
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 3px 3px 8px 1px black;
+}
+
+#innerContainer {
+    width: 800px;
+    margin-left: 50px; 
+    margin-right: 50px; 
+    padding-top: 40px;
+}
+
+#header {
+    width: 800px; 
+    height: 356px; 
+    background-image: url('../images/gavel_background.png'); 
+    border: 0px solid silver; 
+    border-bottom-color: gray; 
+    border-right-color: gray;   
+    box-shadow: 2px 2px 2px 1px dimgray;
+}
+#headerBanner {
+    display: inline-block;
+    background-color: white;
+    position: relative; top: 60px;  
+    padding: 6px;
+}
+#headerBanner div {
+    font-size: 1.5em; font-family: 'Century Gothic'; font-weight: normal;
+    margin-left:10px;
+    text-shadow: 0 1px 1px rgba(255,255,255,.3);
+}
+
+#headerLawyer {
+    position: absolute;     
+    left: 20px; 
+    top: 200px; 
+    text-align: center;
+}
+
+#headerLawyerPic {
+    background-image: url('../images/SigSig1.png');
+    background-repeat: no-repeat;
+    width:140px; 
+    height: 200px; 
+    border: 2px solid #d3bcb2; 
+    border-bottom-color: dimgrey; 
+    border-right-color: grey; 
+    border-radius: 4px;
+}
+
+#headerLawyerLinks img {
+    margin-left: 5px; margin-right: 5px;
+}
+
+.selectedMenuItem { color: #886555; }
+.menuItem {
+    display: inline-block;
+    font-size: 1.5em; font-family: 'Century Gothic'; font-weight: bold;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.menuItem:hover { 
+    color: #cfb3ac; 
+    text-shadow: 0px 0px 4px white;    
+}
+
+
+#mainContent { margin-top: 30px; min-height: 180px; }
+.content p { margin-left: 30px; }
+.content p.contentHeader { margin-left:10px; font-size: 1.5em; font-family: 'Century Gothic'; font-weight: bold; }
+
+
+#footer {
+    text-align: center;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+#footer p {
+    font-size: 0.8em;
+    font-family: 'Arial';
+}
+
+#footer p b {
+    font-size: 1.0em;
+    font-family: 'Arial';
+}
