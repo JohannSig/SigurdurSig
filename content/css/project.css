@@ -17,10 +17,13 @@ body {
   background-size: cover;
   margin-bottom: 20px;
 }
+.panel,
+.container .jumbotron {
+  border-radius: 0px;
+}
 .dark {
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
-  border-radius: 8px;
   border-color: rgba(105, 77, 65, 0.33);
   border-style: outset;
 }
@@ -34,41 +37,46 @@ body {
 }
 h1 {
   color: white;
-  text-shadow: 2px 2px 2px black;
-  font-family: 'Century Gothic';
+  text-shadow: 1px 1px 4px black;
+  font-family: 'Titillium Web';
   margin-top: 40px;
   margin-bottom: 40px;
 }
 h2 {
   color: white;
-  text-shadow: 2px 2px 2px black;
-  font-family: 'Century Gothic';
+  text-shadow: 1px 1px 4px black;
+  font-family: 'Titillium Web';
+}
+h3 {
+  font-family: 'Titillium Web';
 }
 h4 {
   color: #886555;
 }
+#primary-container ul.nav-pills {
+  margin-bottom: 10px;
+}
 #primary-container ul.nav-pills > li.active a {
   background-color: white;
   color: black;
-  text-shadow: 2px 2px 2px white;
+  text-shadow: 1px 1px 4px transparent;
 }
 #primary-container ul.nav-pills > li > a {
+  border-radius: 0px;
+  font-family: 'Titillium Web';
   font-size: 18px;
   transition: background-color 1s, text-shadow 1s;
   color: whitesmoke;
-  text-shadow: 2px 2px 2px black;
+  text-shadow: 1px 1px 4px black;
 }
 #primary-container ul.nav-pills > li > a:hover,
 #primary-container ul.nav-pills > li > a:focus {
   color: black;
-  text-shadow: 2px 2px 2px white;
+  text-shadow: 1px 1px 4px transparent;
 }
 #primary-container ul.nav-pills > li > a:hover:hover:not(:focus),
 #primary-container ul.nav-pills > li > a:focus:hover:not(:focus) {
   background-color: rgba(255, 255, 255, 0.6);
-}
-.staff-entry img {
-  border-radius: 4px;
 }
 footer p {
   color: white;

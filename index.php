@@ -12,6 +12,7 @@
         <title>Lögfræðiþjónusta Sigurðar Sigurjónssonar hrl</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+        <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'>
         <link href="content/images/favicon.ico" rel="icon" type="image/png" />
         <link href="content/css/bootstrap.css" rel="stylesheet" type="text/css"/>
         <link href="content/css/project.css" rel="stylesheet" type="text/css"/>
@@ -25,16 +26,14 @@
 
         <div id="primary-container" class="container">
 
-            <div class="row visible-xs" >
-                <div class="col-xs-12 col-md-8">
-                    <div class="panel dark">
-                        <div class="panel-body">
+            <div class="row" >
+                <div class="col-xs-12">
+                    <div class="jumbotron dark">
+
                             <h1>Lögfræðiþjónusta<br/>Sigurðar Sigurjónssonar hrl.</h1>
-                        </div>
                     </div>
                 </div>
             </div>
-
             <div class="row">
                 <div class="col-xs-12">
                     <ul class="nav nav-pills nav-justified">
@@ -46,15 +45,6 @@
                 </div>
             </div>
 
-            <div class="row hidden-xs" style="margin-top: 50px;" >
-                <div class="col-xs-12 col-md-8">
-                    <div class="panel dark">
-                        <div class="panel-body">
-                            <h1>Lögfræðiþjónusta<br/>Sigurðar Sigurjónssonar hrl.</h1>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
 
             <div class="tab-content">
@@ -98,7 +88,7 @@
                     </div>
 
                     <div class="row ">
-                        <div class="col-xs-12 col-md-10 col-lg-8">                            
+                        <div class="col-xs-12">                            
                             <div class="panel staff-entry dark">
                                 <div class="panel-body">
                                     <div class="row  ">
@@ -136,7 +126,7 @@
                             </div>
                         </div>
 
-                        <div class="col-xs-12 col-md-10 col-lg-8">                            
+                        <div class="col-xs-12">                            
                             <div class="panel staff-entry dark">
                                 <div class="panel-body">
                                     <div class="row  ">
@@ -185,16 +175,18 @@
 
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-6 col-md-7">
-
-                                            <p>Lögfræðiþjónusta Sigurðar Sigurjónssonar hrl. er til húsa að Sigtúni 42, 105 Reykjavík</p>
-
+                                            <h3>Aðsetur</h3>
                                             <p>Heimilisfang Lögfræðiþjónustu Sigurðar Sigurjónssonar hrl. er sem hér fylgir:</p>
 
                                             <p>Lögfræðiþjónusta Sigurðar Sigurjónssonar hrl.<br/>
                                                 Sigtúni 42<br/>
                                                 105 Reykjavík</p>                                          
 
+                                            <h3>Símanúmer</h3>
                                             <p>Hægt er ná i Sigurð í síma <a href="tel:+3548921309">(+354) 892 1303</a></p>
+                                            
+                                            <h3>Tölvupóstur</h3>
+                                            <p>Sigurður svarar tölvupóstum í <a href="mailto:sigurdursig@gmail.com">SigurdurSig@gmail.com</a>
 
                                         </div>
 
