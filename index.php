@@ -12,6 +12,7 @@
         <title>Lögfræðiþjónusta Sigurðar Sigurjónssonar hrl</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+        <meta name="google-site-verification" content="nclTIukSqW7MvP1uzzBdAYjmCnaBFDEQW71-N3EYeuY" />
         <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'>
         <link href="content/images/favicon.ico" rel="icon" type="image/png" />
         <link href="content/css/bootstrap.css" rel="stylesheet" type="text/css"/>
@@ -31,6 +32,7 @@
                     <div class="jumbotron dark">
 
                             <h1>Lögfræðiþjónusta<br/>Sigurðar Sigurjónssonar hrl.</h1>
+                            <p>[Síða í smíðum]</p>
                     </div>
                 </div>
             </div>
@@ -136,7 +138,7 @@
                                         <div class="col-xs-8 col-sm-9">
 
 
-                                            <h3>Ingólfur Vignir Guðmundsson <small>Hdl.</small></h3>
+                                            <h3>Ingólfur Vignir Guðmundsson <small>Lögfr.</small></h3>
                                             <p class="text-muted">
                                                 <span class="glyphicon glyphicon-phone"></span> Sími:
                                                 <a href="tel:+3548921309">(+354) 892 1303</a> | 
