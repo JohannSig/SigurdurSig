@@ -27,15 +27,6 @@
 
         <div id="primary-container" class="container">
 
-            <div class="row" >
-                <div class="col-xs-12">
-                    <div class="jumbotron dark">
-
-                            <h1>Lögfræðiþjónusta<br/>Sigurðar Sigurjónssonar hrl.</h1>
-                            <p>[Síða í smíðum]</p>
-                    </div>
-                </div>
-            </div>
             <div class="row">
                 <div class="col-xs-12">
                     <ul class="nav nav-pills nav-justified">
@@ -45,7 +36,18 @@
                         <li role="presentation"><a href="#contact" aria-controls="contact" role="tab" data-toggle="tab">Hafðu samband</a></li>
                     </ul>
                 </div>
+            </div>            
+            
+            <div class="row" >
+                <div class="col-xs-12">
+                    <div class="jumbotron dark">
+
+                            <h1>Lögfræðiþjónusta<br/>Sigurðar Sigurjónssonar hrl.</h1>
+                            <p>[Síða í smíðum]</p>
+                    </div>
+                </div>
             </div>
+
 
 
 
@@ -86,14 +88,15 @@
                 <div id="staff" class="tab-pane fade active in">
 
                     <div class="col-xs-12">
-                        <h2>Starfsfólk Lögfræðiþjónustunnar</h2>
                     </div>
 
                     <div class="row ">
                         <div class="col-xs-12">                            
-                            <div class="panel staff-entry dark">
+                            <div class="panel staff-entry light">
                                 <div class="panel-body">
                                     <div class="row  ">
+                                        <h2>Starfsfólk Lögfræðiþjónustunnar</h2>
+
                                         <div class="col-xs-4 col-sm-3">
                                             <img src="content/images/sigurdursig.jpg" class="pull-left" style="margin-top: 20px; margin-bottom: 10px; max-width: 100%;"/>
                                         </div>
