@@ -10,7 +10,7 @@ and open the template in the editor.
 body {
   padding-top: 50px;
   background-color: #222;
-  background-image: url(../images/courtroom-with-scales-semi-desaturated.jpg);
+  background-image: url(../images/courtroom-with-scales-dark-overlay.jpg);
   background-position: center top;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -65,7 +65,7 @@ h4 {
   border-radius: 0px;
   font-family: 'Titillium Web';
   font-size: 18px;
-  transition: background-color 1s, text-shadow 1s;
+  transition: background-color 0.3s, text-shadow 0.3s;
   color: whitesmoke;
   text-shadow: 1px 1px 4px black;
 }

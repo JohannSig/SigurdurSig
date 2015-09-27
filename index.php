@@ -27,6 +27,10 @@
 
         <div id="primary-container" class="container">
 
+
+            <h1>Lögfræðiþjónusta<br/>Sigurðar Sigurjónssonar hrl.</h1>
+            <p>[Síða í smíðum]</p>
+
             <div class="row">
                 <div class="col-xs-12">
                     <ul class="nav nav-pills nav-justified">
@@ -37,30 +41,17 @@
                     </ul>
                 </div>
             </div>            
-            
-            <div class="row" >
-                <div class="col-xs-12">
-                    <div class="jumbotron dark">
-
-                            <h1>Lögfræðiþjónusta<br/>Sigurðar Sigurjónssonar hrl.</h1>
-                            <p>[Síða í smíðum]</p>
-                    </div>
-                </div>
-            </div>
-
 
 
 
             <div class="tab-content">
                 <div id="home" class="tab-pane fade">
-                    <div class="col-xs-12">
-                        <h2>Velkomin(n) á heimasíðu okkar</h2>
-                    </div>
+                    <h2>Lögfræðiþjónusta Sigurðar Sigurjónssonar hrl.</h2>
 
 
                     <div class="row">
                         <div class="col-xs-12">
-                            <div class="panel dark">
+                            <div class="panel">
                                 <div class="panel-body">
                                     <p>Efni kemur inn von bráðar</p>
                                 </div>
@@ -76,7 +67,7 @@
 
                     <div class="row">
                         <div class="col-xs-12">
-                            <div class="panel dark">
+                            <div class="panel">
                                 <div class="panel-body">
                                     <p>Efni kemur inn von bráðar</p>
                                 </div>
@@ -92,39 +83,46 @@
 
                     <div class="row ">
                         <div class="col-xs-12">                            
-                            <div class="panel staff-entry light">
+                            <h2>Starfsfólk</h2>
+                            <div class="panel staff-entry">
                                 <div class="panel-body">
                                     <div class="row  ">
-                                        <h2>Starfsfólk Lögfræðiþjónustunnar</h2>
 
-                                        <div class="col-xs-4 col-sm-3">
-                                            <img src="content/images/sigurdursig.jpg" class="pull-left" style="margin-top: 20px; margin-bottom: 10px; max-width: 100%;"/>
+                                        <div class="col-xs-4 col-sm-3 col-md-6 text-center">
+                                            <img src="content/images/sigurdursig.jpg" class="text-center" style="margin-top: 20px; margin-bottom: 10px; max-width: 100%;"/>
                                         </div>
-                                        <div class="col-xs-8 col-sm-9">
+                                        <div class="col-xs-8 col-sm-9 col-md-6">
 
+                                            <h3>Sigurður Sigurjónsson</h3>                                          
 
-                                            <h3>Sigurður Sigurjónsson <small>Hrl.</small></h3>
-
-                                            <p class="text-muted visible-xs">
+                                            <h4>Hæstaréttarlögmaður</h4>
+                                            <p class="text-muted">
                                                 <span class="glyphicon glyphicon-phone"></span> Sími:
                                                 <a href="tel:+3548921309">(+354) 892 1303</a> <br/> 
                                                 <span class="glyphicon glyphicon-envelope"></span> Netfang: 
                                                 <a href="mailto:sigurdursig@gmail.com">SigurdurSig@gmail.com</a>
                                             </p>
 
-                                            <p class="text-muted hidden-xs">
-                                                <span class="glyphicon glyphicon-phone"></span> Sími:
-                                                <a href="tel:+3548921309">(+354) 892 1303</a> | 
-                                                <span class="glyphicon glyphicon-envelope"></span> Netfang: 
-                                                <a href="mailto:sigurdursig@gmail.com">SigurdurSig@gmail.com</a>
-                                            </p>
-
-
                                             <h4>Menntun</h4>
-                                            <p>Upplýsingar væntanlegar</p>
+                                            <p>Menntaskólinn á Laugarvatni 1968, Stúdentspróf.</p>
+                                            <p>Háskóli Íslands, Lagadeild 1974, Cand. Jur.</p>
+                                            <p>Héraðsdómslögmaður 1975.</p>
+                                            <p>Hæstaréttarlögmaður 1990.</p>
+                                            <p>Leiðsöguskólinn 2015.</p>
 
-                                            <h4>Starfsreynsla</h4>
-                                            <p>Upplýsingar væntanlegar</p>
+                                            <h4>Starfsferill</h4>
+                                            <ul>
+                                                <li>Löglærður fulltrúi Borgarstjórans í Reykjavík 1974-1977.</li>
+                                                <li>Lögmenn Garðastræti 16, eigandi, 1977-198x.</li>
+                                                <li>Bæjarfulltrúi í Garðabæ 1978-1986.</li>
+                                                <li>Í bæjarráði Garðabæjar 1978-1985.</li>
+                                                <li>Formaður bæjarráðs Garðabæjar 1982-1985.</li>
+                                                <li>Forseti bæjarstjórnar Garðabæjar 1985-1986.</li>
+                                                <li>Lögmenn Skeifunni, eigandi, 198x-200x.</li>
+                                                <li>Löggiltur fasteigna- og skipasali 1990-1995.</li>
+                                                <li>Lögfræðiþjónusta Sigurðar Sigurjónssonar hrl., eigandi frá 200x.</li>
+                                            </ul>
+
                                         </div>
                                     </div>
                                 </div>
@@ -132,16 +130,17 @@
                         </div>
 
                         <div class="col-xs-12">                            
-                            <div class="panel staff-entry dark">
+                            <div class="panel staff-entry">
                                 <div class="panel-body">
                                     <div class="row  ">
-                                        <div class="col-xs-4 col-sm-3">
-                                            <img src="content/images/ingolfur.jpg" class="pull-left" style="margin-top: 20px; margin-bottom: 10px; max-width: 100%;"/>
+                                        <div class="col-xs-4 col-sm-3 col-md-6 text-center">
+                                            <img src="content/images/ingolfur.jpg" style="margin-top: 20px; margin-bottom: 10px; max-width: 100%;"/>
                                         </div>
-                                        <div class="col-xs-8 col-sm-9">
+                                        <div class="col-xs-8 col-sm-9 col-md-6">
 
 
-                                            <h3>Ingólfur Vignir Guðmundsson <small>Lögfr.</small></h3>
+                                            <h3>Ingólfur Vignir Guðmundsson</h3>
+                                            <h4>Lögfræðingur og viðskiptafræðingur</h4>
                                             <p class="text-muted">
                                                 <span class="glyphicon glyphicon-phone"></span> Sími:
                                                 <a href="tel:+3548921309">(+354) 892 1303</a> | 
@@ -151,10 +150,21 @@
 
 
                                             <h4>Menntun</h4>
-                                            <p>Upplýsingar væntanlegar</p>
-
-                                            <h4>Starfsreynsla</h4>
-                                            <p>Upplýsingar væntanlegar</p>
+                                            <ul>
+                                                <li>Flensborgarskóli 1980, stúdentspróf.</li>
+                                                <li>Háskóli Íslands 1986, Cand.Oecon.</li>
+                                                <li>Löggilding í verðbréfamiðlun 1998</li>
+                                                <li>Háskólinn í Reykjavík, Lagadeild 2015, MA</li>
+                                            </ul>
+                                            
+                                            <h4>Starfsferill</h4>
+                                            <ul>
+                                                <li>Sparisjóður Kópavogs, Forstöðumaður 1993-2002</li>
+                                                <li>Sparisjóður Kópavogs, Aðstoðar sparisjóðsstjóri 2002-2007</li>
+                                                <li>Byr sparisjóður, Framkvæmdastjóri 2008-2009</li>
+                                                <li>ICM Fjármálaráðgjöf, ráðgjafi 2010-2012</li>
+                                                <li>Lögfræðiþjónusta Sigurðar Sigurjónssonar hrl., fulltrúi frá 2012</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -189,7 +199,7 @@
 
                                             <h3>Símanúmer</h3>
                                             <p>Hægt er ná i Sigurð í síma <a href="tel:+3548921309">(+354) 892 1303</a></p>
-                                            
+
                                             <h3>Tölvupóstur</h3>
                                             <p>Sigurður svarar tölvupóstum í <a href="mailto:sigurdursig@gmail.com">SigurdurSig@gmail.com</a>
 
