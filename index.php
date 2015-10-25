@@ -104,11 +104,13 @@
                                             </p>
 
                                             <h4>Menntun</h4>
-                                            <p>Menntaskólinn á Laugarvatni 1968, Stúdentspróf.</p>
-                                            <p>Háskóli Íslands, Lagadeild 1974, Cand. Jur.</p>
-                                            <p>Héraðsdómslögmaður 1975.</p>
-                                            <p>Hæstaréttarlögmaður 1990.</p>
-                                            <p>Leiðsöguskólinn 2015.</p>
+                                            <ul>
+                                                <li>Menntaskólinn á Laugarvatni 1968, Stúdentspróf.</li>
+                                                <li>Háskóli Íslands, Lagadeild 1974, Cand. Jur.</li>
+                                                <li>Héraðsdómslögmaður 1975.</li>
+                                                <li>Hæstaréttarlögmaður 1990.</li>
+                                                <li>>Leiðsöguskólinn 2015.</li>
+                                            </ul>
 
                                             <h4>Starfsferill</h4>
                                             <ul>
@@ -156,7 +158,7 @@
                                                 <li>Löggilding í verðbréfamiðlun 1998</li>
                                                 <li>Háskólinn í Reykjavík, Lagadeild 2015, MA</li>
                                             </ul>
-                                            
+
                                             <h4>Starfsferill</h4>
                                             <ul>
                                                 <li>Sparisjóður Kópavogs, Forstöðumaður 1993-2002</li>
