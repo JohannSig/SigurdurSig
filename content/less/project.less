@@ -9,6 +9,10 @@ and open the template in the editor.
 */
 
 
+html {
+    overflow-y: scroll;
+}
+
 
 body {
     padding-top: 50px;
@@ -74,7 +78,7 @@ h4 {
     ul.nav-pills  {
 
         margin-bottom: 10px;
-        
+
         >li { 
 
             &.active a {
@@ -105,8 +109,32 @@ h4 {
     }
 }
 
-.staff-entry img {
-    //border-radius: 4px;
+.panel {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgba(250,250,250,0.9);    
+}
+
+.staff-entry {
+
+    
+    img {
+        //border-radius: 4px;
+    }
+    
+    ul {
+        list-style-type: none;
+        padding-left: 0px;
+        
+        li {
+            margin-left: 0px;
+        }
+        
+        
+    }
+    
 }
 
 footer p {

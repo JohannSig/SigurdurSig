@@ -7,6 +7,9 @@ and open the template in the editor.
     Created on : Sep 6, 2015, 5:47:29 PM
     Author     : Jóhann Sigurðsson
 */
+html {
+  overflow-y: scroll;
+}
 body {
   padding-top: 50px;
   background-color: #222;
@@ -77,6 +80,20 @@ h4 {
 #primary-container ul.nav-pills > li > a:hover:hover:not(:focus),
 #primary-container ul.nav-pills > li > a:focus:hover:not(:focus) {
   background-color: rgba(255, 255, 255, 0.6);
+}
+.panel {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: rgba(250, 250, 250, 0.9);
+}
+.staff-entry ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.staff-entry ul li {
+  margin-left: 0px;
 }
 footer p {
   color: white;

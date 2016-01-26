@@ -29,7 +29,6 @@
 
 
             <h1>Lögfræðiþjónusta<br/>Sigurðar Sigurjónssonar hrl.</h1>
-            <p>[Síða í smíðum]</p>
 
             <div class="row">
                 <div class="col-xs-12">
@@ -61,9 +60,7 @@
                 </div>
 
                 <div id="work" class="tab-pane fade">
-                    <div class="col-xs-12">
-                        <h2>Þjónusta</h2>
-                    </div>
+                    <h2>Þjónusta</h2>
 
                     <div class="row">
                         <div class="col-xs-12">
@@ -78,20 +75,17 @@
 
                 <div id="staff" class="tab-pane fade active in">
 
-                    <div class="col-xs-12">
-                    </div>
-
-                    <div class="row ">
+                    <div class="row">
                         <div class="col-xs-12">                            
                             <h2>Starfsfólk</h2>
                             <div class="panel staff-entry">
                                 <div class="panel-body">
                                     <div class="row  ">
 
-                                        <div class="col-xs-4 col-sm-3 col-md-6 text-center">
+                                        <div class="col-xs-4 col-sm-3 col-md-6 col-lg-5 text-center">
                                             <img src="content/images/sigurdursig.jpg" class="text-center" style="margin-top: 20px; margin-bottom: 10px; max-width: 100%;"/>
                                         </div>
-                                        <div class="col-xs-8 col-sm-9 col-md-6">
+                                        <div class="col-xs-8 col-sm-9 col-md-6 col-lg-7">
 
                                             <h3>Sigurður Sigurjónsson</h3>                                          
 
@@ -109,7 +103,7 @@
                                                 <li>Háskóli Íslands, Lagadeild 1974, Cand. Jur.</li>
                                                 <li>Héraðsdómslögmaður 1975.</li>
                                                 <li>Hæstaréttarlögmaður 1990.</li>
-                                                <li>>Leiðsöguskólinn 2015.</li>
+                                                <li>Leiðsöguskólinn 2015.</li>
                                             </ul>
 
                                             <h4>Starfsferill</h4>
@@ -130,22 +124,27 @@
                                 </div>
                             </div>
                         </div>
-
+                    </div>
+                    
+                    
+                    <br/><br/>
+                    
+                    <div class="row">
                         <div class="col-xs-12">                            
                             <div class="panel staff-entry">
                                 <div class="panel-body">
                                     <div class="row  ">
-                                        <div class="col-xs-4 col-sm-3 col-md-6 text-center">
+                                        <div class="col-xs-4 col-sm-3 col-md-6 col-lg-5 text-center">
                                             <img src="content/images/ingolfur.jpg" style="margin-top: 20px; margin-bottom: 10px; max-width: 100%;"/>
                                         </div>
-                                        <div class="col-xs-8 col-sm-9 col-md-6">
+                                        <div class="col-xs-8 col-sm-9 col-md-6 col-lg-7">
 
 
                                             <h3>Ingólfur Vignir Guðmundsson</h3>
                                             <h4>Lögfræðingur og viðskiptafræðingur</h4>
                                             <p class="text-muted">
                                                 <span class="glyphicon glyphicon-phone"></span> Sími:
-                                                <a href="tel:+3548921309">(+354) 892 1303</a> | 
+                                                <a href="tel:+3548401930">(+354) 840 1930</a> <br/> 
                                                 <span class="glyphicon glyphicon-envelope"></span> Netfang: 
                                                 <a href="mailto:sigurdursig@gmail.com">SigurdurSig@gmail.com</a>
                                             </p>
@@ -177,23 +176,19 @@
                 </div>
 
                 <div id="contact" class="tab-pane fade">                    
-                    <div class="col-xs-12">
-                        <h2>Hafðu samband við okkur</h2>
-                    </div>
 
-
-
+                    <h2>Hafðu samband við okkur</h2>
 
                     <div class="row">
                         <div class="col-xs-12">
 
-                            <div class="panel dark">
+                            <div class="panel">
                                 <div class="panel-body">
 
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-6 col-md-7">
                                             <h3>Aðsetur</h3>
-                                            <p>Heimilisfang Lögfræðiþjónustu Sigurðar Sigurjónssonar hrl. er sem hér fylgir:</p>
+                                            <p>Lögfræðiþjónusta Sigurðar Sigurjónssonar hrl. er til húsa sem hér fylgir:</p>
 
                                             <p>Lögfræðiþjónusta Sigurðar Sigurjónssonar hrl.<br/>
                                                 Sigtúni 42<br/>
@@ -201,6 +196,7 @@
 
                                             <h3>Símanúmer</h3>
                                             <p>Hægt er ná i Sigurð í síma <a href="tel:+3548921309">(+354) 892 1303</a></p>
+                                            <p>Hægt er ná i Ingólf í síma <a href="tel:+3548401930">(+354) 840 1930</a></p>
 
                                             <h3>Tölvupóstur</h3>
                                             <p>Sigurður svarar tölvupóstum í <a href="mailto:sigurdursig@gmail.com">SigurdurSig@gmail.com</a>
